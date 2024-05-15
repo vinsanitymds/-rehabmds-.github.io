@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dr. Olutimilehin Oyeniran</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .header, .footer {
+            background-color: #007BFF;
+            color: white;
+            text-align: center;
+            padding: 1em 0;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        .content {
+            padding: 2em;
+            background: white;
+            margin: 2em 0;
+            border-radius: 5px;
+        }
+        .section-title {
+            font-size: 1.5em;
+            margin-bottom: 0.5em;
+            color: #007BFF;
+        }
+        .contact-info p {
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="header">
+        <h1>Dr. Olutimilehin Oyeniran, MD MS</h1>
+        <p>Sports Medicine | Family Medicine | Telehealth Innovator</p>
+    </div>
+
+    <div class="container">
+        <div class="content">
+            <div class="section">
+                <h2 class="section-title">About Me</h2>
+                <p>Accomplished physician with extensive experience in medical innovation and public health advocacy, dedicated to advancing health equity and accessibility. Skilled in developing technology solutions that improve patient outcomes and community health. Seeking to leverage expertise in clinical practice, sports medicine, digital health technologies, and community engagement to contribute to improving health outcomes for underserved and all populations.</p>
+            </div>
+
+            <div class="section">
+                <h2 class="section-title">Experience</h2>
+                <ul>
+                    <li><strong>Team Physician</strong> - University of Connecticut (July 2024 - July 2025)</li>
+                    <li><strong>Founder/CEO</strong> - THE5MDS LLC, Bronx, NY (January 2024 - Present)</li>
+                    <li><strong>Creator</strong> - Rehab Pro, Bronx, NY (March 2024)</li>
+                    <li><strong>Resident Physician</strong> - Montefiore Medical Center, Bronx, NY (July 2021 - July 2024)</li>
+                    <li><strong>Assistant Team Physician</strong> - Lehman College, Bronx, NY</li>
+                </ul>
+            </div>
+
+            <div class="section">
+                <h2 class="section-title">Education</h2>
+                <ul>
+                    <li><strong>Sports Medicine Fellow</strong> - University of Connecticut (July 2024 - July 2025)</li>
+                    <li><strong>Innovation and Biodesign Training Pathway Resident</strong> - Montefiore Medical Center/Albert Einstein College of Medicine, Bronx, NY (July 2023 - Present)</li>
+                    <li><strong>Doctor of Medicine</strong> - St. George's University School of Medicine, Grenada, West Indies (Aug 2017 - Mar 2021)</li>
+                    <li><strong>Masters in Biomedical Sciences (MBS)</strong> - Rowan Graduate School of Biomedical Sciences, Stratford, NJ (Aug 2015 - May 2017)</li>
+                    <li><strong>Bachelor of Science</strong> - Rutgers University College of Arts and Sciences, New Brunswick, NJ (Aug 2011 - May 2015)</li>
+                </ul>
+            </div>
+
+            <div class="section">
+                <h2 class="section-title">Projects</h2>
+                <p><strong>Rehab Pro</strong>: Developed an innovative mobile app, Rehabilitation Pro, combining AR/VR and wearable technology to enhance home-based physical therapy for rotator cuff injuries.</p>
+            </div>
+
+            <div class="section">
+                <h2 class="section-title">Publications & Research</h2>
+                <ul>
+                    <li>Iliotibial Band Syndrome Current Evidence. Current Physical Medicine and Rehabilitation Reports. 2024.</li>
+                    <li>Sickle Cell Disease and Depression. Northeast Regional Alliance Summer Program. 2015.</li>
+                    <li>Exercise-Induced Rhabdomyolysis and Subsequent Urticaria. Morbidity and Mortality Conference. 2024.</li>
+                    <li>Point of Care Ultrasound in Emergency Medicine. Evidence-Based Medicine Poster Presentation. 2024.</li>
+                    <li>Rehabilitation Pro: Development and Evaluation of a Home-Based Physical Therapy App for Rotator Cuff Injuries. Social Medicine Symposium. 2023.</li>
+                </ul>
+            </div>
+
+            <div class="section">
+                <h2 class="section-title">Contact</h2>
+                <div class="contact-info">
+                    <p><strong>Address:</strong> 6200 Riverdale Avenue, Apt 5K, Bronx, NY 10471</p>
+                    <p><strong>Phone:</strong> (908) 344-8963</p>
+                    <p><strong>Email:</strong> <a href="mailto:toyeniran32@gmail.com">toyeniran32@gmail.com</a></p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="footer">
+        <p>&copy; 2024 Dr. Olutimilehin Oyeniran. All Rights Reserved.</p>
+    </div>
+
+</body>
+</html>
